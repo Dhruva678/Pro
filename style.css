@@ -1,0 +1,39 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.heading_div{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+}
+.heading_div2{
+    font-size: 18px;
+}
+.object_name{
+   box-shadow: 5px 5px 5px grey;
+   font-size: 30px; 
+}
+.copyright_footer_div{
+    position: fixed;
+    color:red;
+    bottom: 0;
+    width: 100%;
+    background-image: linear-gradient(cyan, olive);
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid antiquewhite;
+    margin-top: 150px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px violet;
+}
+canvas:hover{
+    border: 8px solid khaki;
+}
